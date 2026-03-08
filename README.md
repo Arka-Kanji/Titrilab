@@ -37,8 +37,3 @@
 ## 🚀 Getting Started
 
 TitriLab is built using pure **Vanilla HTML, CSS, and JavaScript**. No build tools, bundlers, or package managers are required!
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/titrilab.git](https://github.com/yourusername/titrilab.git)
